@@ -1,14 +1,14 @@
 # Intelligent-Downloads-Section-Organizer-GUI-Application
 ![Picture1](https://user-images.githubusercontent.com/50885018/134515000-8fe4e371-124c-4751-ae6b-055b323e1bfd.png)
 
-**## INTRODUCTION
+# **INTRODUCTION
 
 In the present scenario of pandemic, each and everyone is well known with the fact that everything has shifted to online. All the exchange of information between people working in different sectors is taking place through documents, pdfs, files and other soft copy formats. So, when all this reach to our system via emails or other modes it's almost impossible to organize all that downloaded documents and files in the system's downloads section. If someone is downloading files, documents etc. at the rate of 100-200 files or documents every now and then which will create a haphazard in the system. It will also lead to unnecessary consumption of the drivers present in the system and this can trouble the user in order to maintain the decorum of their documents and files. It is a time-consuming process to find out the desired files or documents from a huge number of clutter present in the downloads section. So, this project brings an intelligent software which will automatically segregate and organize the files and documents present in downloads section of user's system on the basis of file type (that is .txt,.docx,.jpeg etc.). Not only this but it will also take care of user's desire of setting up the location of the specific document or file along with some other vibrant features. Keywords: Intelligent, Organizer, File Extension
 ![FLOW](https://user-images.githubusercontent.com/50885018/134515649-8fb26860-16d3-4b51-a928-59cf8608acf3.png)
 ![Picture2](https://user-images.githubusercontent.com/50885018/134515910-14506bea-1ac2-4849-8e08-49f32471a99e.png)
 ![Picture3](https://user-images.githubusercontent.com/50885018/134515933-449d3b91-25f8-4d7a-9cd6-802827aa34b2.png)
 
-**## PROJECT WORKING
+# **PROJECT WORKING
 
 ![Picture4](https://user-images.githubusercontent.com/50885018/134516018-1073656f-6697-4638-832a-4315c0b024a0.png)
 
